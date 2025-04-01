@@ -1,4 +1,4 @@
-#1. Vaihe - Määrittely ja suunnittelu
+# 1. Vaihe - Määrittely ja suunnittelu
 
 ## 1. Johdanto
 
